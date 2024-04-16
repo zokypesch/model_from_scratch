@@ -1,0 +1,1046 @@
+[
+    {
+        "context": "Nokia C12 Android 12 (Go Edition) Smartphone, All-Day Battery, 4GB RAM (2GB RAM + 2GB Virtual RAM) + 64GB Capacity | Light Mint",
+        "qas": [
+            {
+                "id": "00001",
+                "is_impossible": false,
+                "question": "What is the operating system of the Nokia C12 smartphone?",
+                "answers": [
+                    {
+                        "text": "Android 12 (Go Edition)",
+                        "answer_start": 10
+                    }
+                ]
+            },
+            {
+                "id": "00002",
+                "is_impossible": false,
+                "question": "How much RAM does the Nokia C12 have?",
+                "answers": [
+                    {
+                        "text": "4GB",
+                        "answer_start": 63
+                    }
+                ]
+            },
+            {
+                "id": "00003",
+                "is_impossible": false,
+                "question": "Does the Nokia C12 have virtual RAM?",
+                "answers": [
+                    {
+                        "text": "(2GB RAM + 2GB Virtual RAM)",
+                        "answer_start": 71
+                    }
+                ]
+            },
+            {
+                "id": "00004",
+                "is_impossible": false,
+                "question": "What is the total capacity of the Nokia C12?",
+                "answers": [
+                    {
+                        "text": "64GB",
+                        "answer_start": 101
+                    }
+                ]
+            },
+            {
+                "id": "00005",
+                "is_impossible": false,
+                "question": "What is the color option available for the Nokia C12?",
+                "answers": [
+                    {
+                        "text": "Light Mint",
+                        "answer_start": 117
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "Nokia G21 Android Smartphone, Dual SIM, 3-Day Battery Life, 6GB RAM + 128GB Storage, 50MP Triple AI Camera | Nordic Blue",
+        "qas": [
+            {
+                "id": "00001",
+                "is_impossible": false,
+                "question": "What is the model name of the Nokia smartphone?",
+                "answers": [
+                    {
+                        "text": "Nokia G21",
+                        "answer_start": 0
+                    }
+                ]
+            },
+            {
+                "id": "00002",
+                "is_impossible": false,
+                "question": "What is the operating system of the Nokia G21?",
+                "answers": [
+                    {
+                        "text": "Android",
+                        "answer_start": 10
+                    }
+                ]
+            },
+            {
+                "id": "00003",
+                "is_impossible": false,
+                "question": "How many SIM cards does the Nokia G21 support?",
+                "answers": [
+                    {
+                        "text": "Dual SIM",
+                        "answer_start": 30
+                    }
+                ]
+            },
+            {
+                "id": "00004",
+                "is_impossible": false,
+                "question": "How long is the battery life of the Nokia G21?",
+                "answers": [
+                    {
+                        "text": "3-Day Battery Life",
+                        "answer_start": 40
+                    }
+                ]
+            },
+            {
+                "id": "00005",
+                "is_impossible": false,
+                "question": "How much RAM does the Nokia G21 have?",
+                "answers": [
+                    {
+                        "text": "6GB",
+                        "answer_start": 60
+                    }
+                ]
+            },
+            {
+                "id": "00006",
+                "is_impossible": false,
+                "question": "What is the storage capacity of the Nokia G21?",
+                "answers": [
+                    {
+                        "text": "128GB",
+                        "answer_start": 70
+                    }
+                ]
+            },
+            {
+                "id": "00007",
+                "is_impossible": false,
+                "question": "What is the resolution of the main camera on the Nokia G21?",
+                "answers": [
+                    {
+                        "text": "50MP",
+                        "answer_start": 85
+                    }
+                ]
+            },
+            {
+                "id": "00008",
+                "is_impossible": false,
+                "question": "How many AI cameras does the Nokia G21 have?",
+                "answers": [
+                    {
+                        "text": "Triple AI Camera",
+                        "answer_start": 90
+                    }
+                ]
+            },
+            {
+                "id": "00009",
+                "is_impossible": false,
+                "question": "What is the color option available for the Nokia G21?",
+                "answers": [
+                    {
+                        "text": "Nordic Blue",
+                        "answer_start": 109
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "realme narzo 50i Prime (Dark Blue 4GB RAM+64GB Storage) Octa-core Processor | 5000 mAh Battery",
+        "qas": [
+            {
+                "id": "00001",
+                "is_impossible": false,
+                "question": "What is the color option available for the Realme narzo 50i Prime?",
+                "answers": [
+                    {
+                        "text": "Dark Blue",
+                        "answer_start": 24
+                    }
+                ]
+            },
+            {
+                "id": "00002",
+                "is_impossible": false,
+                "question": "How much RAM does the Realme narzo 50i Prime have?",
+                "answers": [
+                    {
+                        "text": "4GB",
+                        "answer_start": 34
+                    }
+                ]
+            },
+            {
+                "id": "00003",
+                "is_impossible": false,
+                "question": "What is the storage capacity of the Realme narzo 50i Prime?",
+                "answers": [
+                    {
+                        "text": "64GB",
+                        "answer_start": 42
+                    }
+                ]
+            },
+            {
+                "id": "00004",
+                "is_impossible": false,
+                "question": "What type of processor does the Realme narzo 50i Prime have?",
+                "answers": [
+                    {
+                        "text": "Octa-core Processor",
+                        "answer_start": 56
+                    }
+                ]
+            },
+            {
+                "id": "00005",
+                "is_impossible": false,
+                "question": "What is the battery capacity of the Realme narzo 50i Prime?",
+                "answers": [
+                    {
+                        "text": "5000 mAh",
+                        "answer_start": 78
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "realme narzo N53 (Feather Gold, 4GB+64GB) 33W Segment Fastest Charging | Slimmest Phone in Segment | 90 Hz Smooth Display",
+        "qas": [
+            {
+                "id": "00001",
+                "is_impossible": false,
+                "question": "What is the color option available for the Realme narzo N53?",
+                "answers": [
+                    {
+                        "text": "Feather Gold",
+                        "answer_start": 18
+                    }
+                ]
+            },
+            {
+                "id": "00002",
+                "is_impossible": false,
+                "question": "How much RAM does the Realme narzo N53 have?",
+                "answers": [
+                    {
+                        "text": "4GB",
+                        "answer_start": 32
+                    }
+                ]
+            },
+            {
+                "id": "00003",
+                "is_impossible": false,
+                "question": "What is the storage capacity of the Realme narzo N53?",
+                "answers": [
+                    {
+                        "text": "64GB",
+                        "answer_start": 36
+                    }
+                ]
+            },
+            {
+                "id": "00004",
+                "is_impossible": false,
+                "question": "What is the charging speed of the Realme narzo N53?",
+                "answers": [
+                    {
+                        "text": "33W Segment Fastest Charging",
+                        "answer_start": 42
+                    }
+                ]
+            },
+            {
+                "id": "00005",
+                "is_impossible": false,
+                "question": "What is the special feature of the Realme narzo N53 in terms of phone thickness?",
+                "answers": [
+                    {
+                        "text": "Slimmest Phone in Segment",
+                        "answer_start": 73
+                    }
+                ]
+            },
+            {
+                "id": "00006",
+                "is_impossible": false,
+                "question": "What is the refresh rate of the display on the Realme narzo N53?",
+                "answers": [
+                    {
+                        "text": "90 Hz",
+                        "answer_start": 101
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "realme narzo N55 (Prime Blue, 4GB+64GB) 33W Segment Fastest Charging | Super High-res 64MP Primary AI Camera",
+        "qas": [
+            {
+                "id": "00001",
+                "is_impossible": false,
+                "question": "What is the color option available for the Realme narzo N55?",
+                "answers": [
+                    {
+                        "text": "Prime Blue",
+                        "answer_start": 18
+                    }
+                ]
+            },
+            {
+                "id": "00002",
+                "is_impossible": false,
+                "question": "How much RAM does the Realme narzo N55 have?",
+                "answers": [
+                    {
+                        "text": "4GB",
+                        "answer_start": 30
+                    }
+                ]
+            },
+            {
+                "id": "00003",
+                "is_impossible": false,
+                "question": "What is the storage capacity of the Realme narzo N55?",
+                "answers": [
+                    {
+                        "text": "64GB",
+                        "answer_start": 34
+                    }
+                ]
+            },
+            {
+                "id": "00004",
+                "is_impossible": false,
+                "question": "What is the charging speed of the Realme narzo N55?",
+                "answers": [
+                    {
+                        "text": "33W Segment Fastest Charging",
+                        "answer_start": 40
+                    }
+                ]
+            },
+            {
+                "id": "00005",
+                "is_impossible": false,
+                "question": "What is the resolution of the primary AI camera on the Realme narzo N55?",
+                "answers": [
+                    {
+                        "text": "Super High-res 64MP",
+                        "answer_start": 71
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "Redmi 9A Sport (Carbon Black, 2GB RAM, 32GB Storage) | 2GHz Octa-core Helio G25 Processor | 5000 mAh Battery",
+        "qas": [
+            {
+                "id": "00001",
+                "is_impossible": false,
+                "question": "What is the model name of the Redmi smartphone?",
+                "answers": [
+                    {
+                        "text": "Redmi 9A Sport",
+                        "answer_start": 0
+                    }
+                ]
+            },
+            {
+                "id": "00002",
+                "is_impossible": false,
+                "question": "What is the color option available for the Redmi 9A Sport?",
+                "answers": [
+                    {
+                        "text": "Carbon Black",
+                        "answer_start": 16
+                    }
+                ]
+            },
+            {
+                "id": "00003",
+                "is_impossible": false,
+                "question": "How much RAM does the Redmi 9A Sport have?",
+                "answers": [
+                    {
+                        "text": "2GB",
+                        "answer_start": 30
+                    }
+                ]
+            },
+            {
+                "id": "00004",
+                "is_impossible": false,
+                "question": "What is the storage capacity of the Redmi 9A Sport?",
+                "answers": [
+                    {
+                        "text": "32GB",
+                        "answer_start": 39
+                    }
+                ]
+            },
+            {
+                "id": "00005",
+                "is_impossible": false,
+                "question": "What is the processor of the Redmi 9A Sport?",
+                "answers": [
+                    {
+                        "text": "2GHz Octa-core Helio G25 Processor",
+                        "answer_start": 55
+                    }
+                ]
+            },
+            {
+                "id": "00006",
+                "is_impossible": false,
+                "question": "What is the battery capacity of the Redmi 9A Sport?",
+                "answers": [
+                    {
+                        "text": "5000 mAh",
+                        "answer_start": 92
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "Redmi 11 Prime 5G (Thunder Black, 4GB RAM, 64GB Storage) | Prime Design | MTK Dimensity 700 | 50 MP Dual Cam | 5000mAh | 7 Band 5G",
+        "qas": [
+            {
+                "id": "00001",
+                "is_impossible": false,
+                "question": "What is the model name of the Redmi smartphone?",
+                "answers": [
+                    {
+                        "text": "Redmi 11 Prime 5G",
+                        "answer_start": 0
+                    }
+                ]
+            },
+            {
+                "id": "00002",
+                "is_impossible": false,
+                "question": "What is the color option available for the Redmi 11 Prime 5G?",
+                "answers": [
+                    {
+                        "text": "Thunder Black",
+                        "answer_start": 19
+                    }
+                ]
+            },
+            {
+                "id": "00003",
+                "is_impossible": false,
+                "question": "How much RAM does the Redmi 11 Prime 5G have?",
+                "answers": [
+                    {
+                        "text": "4GB",
+                        "answer_start": 34
+                    }
+                ]
+            },
+            {
+                "id": "00004",
+                "is_impossible": false,
+                "question": "What is the storage capacity of the Redmi 11 Prime 5G?",
+                "answers": [
+                    {
+                        "text": "64GB",
+                        "answer_start": 43
+                    }
+                ]
+            },
+            {
+                "id": "00005",
+                "is_impossible": false,
+                "question": "What is the special feature of the Redmi 11 Prime 5G in terms of design?",
+                "answers": [
+                    {
+                        "text": "Prime Design",
+                        "answer_start": 59
+                    }
+                ]
+            },
+            {
+                "id": "00006",
+                "is_impossible": false,
+                "question": "What is the processor of the Redmi 11 Prime 5G?",
+                "answers": [
+                    {
+                        "text": "MTK Dimensity 700",
+                        "answer_start": 74
+                    }
+                ]
+            },
+            {
+                "id": "00007",
+                "is_impossible": false,
+                "question": "What is the resolution of the dual camera on the Redmi 11 Prime 5G?",
+                "answers": [
+                    {
+                        "text": "50 MP",
+                        "answer_start": 94
+                    }
+                ]
+            },
+            {
+                "id": "00008",
+                "is_impossible": false,
+                "question": "What is the battery capacity of the Redmi 11 Prime 5G?",
+                "answers": [
+                    {
+                        "text": "5000mAh",
+                        "answer_start": 111
+                    }
+                ]
+            },
+            {
+                "id": "00009",
+                "is_impossible": false,
+                "question": "How many 5G bands does the Redmi 11 Prime 5G support?",
+                "answers": [
+                    {
+                        "text": "7 Band 5G",
+                        "answer_start": 121
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "Redmi 12C (Royal Blue, 4GB RAM, 64GB Storage) | High Performance Mediatek Helio G85 | Big 17cm(6.71) HD+ Display with 5000mAh(typ) Battery",
+        "qas": [
+            {
+                "id": "00001",
+                "is_impossible": false,
+                "question": "What is the model name of the Redmi smartphone?",
+                "answers": [
+                    {
+                        "text": "Redmi 12C",
+                        "answer_start": 0
+                    }
+                ]
+            },
+            {
+                "id": "00002",
+                "is_impossible": false,
+                "question": "What is the color option available for the Redmi 12C?",
+                "answers": [
+                    {
+                        "text": "Royal Blue",
+                        "answer_start": 11
+                    }
+                ]
+            },
+            {
+                "id": "00003",
+                "is_impossible": false,
+                "question": "How much RAM does the Redmi 12C have?",
+                "answers": [
+                    {
+                        "text": "4GB",
+                        "answer_start": 23
+                    }
+                ]
+            },
+            {
+                "id": "00004",
+                "is_impossible": false,
+                "question": "What is the storage capacity of the Redmi 12C?",
+                "answers": [
+                    {
+                        "text": "64GB",
+                        "answer_start": 32
+                    }
+                ]
+            },
+            {
+                "id": "00005",
+                "is_impossible": false,
+                "question": "What is the processor of the Redmi 12C?",
+                "answers": [
+                    {
+                        "text": "High Performance Mediatek Helio G85",
+                        "answer_start": 48
+                    }
+                ]
+            },
+            {
+                "id": "00006",
+                "is_impossible": false,
+                "question": "What is the size of the display on the Redmi 12C?",
+                "answers": [
+                    {
+                        "text": "Big 17cm(6.71) HD+ Display",
+                        "answer_start": 86
+                    }
+                ]
+            },
+            {
+                "id": "00007",
+                "is_impossible": false,
+                "question": "What is the battery capacity of the Redmi 12C?",
+                "answers": [
+                    {
+                        "text": "5000mAh(typ) Battery",
+                        "answer_start": 118
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "Redmi A1 (Light Green, 2GB RAM 32GB ROM) | Segment Best AI Dual Cam | 5000mAh Battery | Leather Texture Design | Android 12",
+        "qas": [
+            {
+                "id": "00001",
+                "is_impossible": false,
+                "question": "What is the model name of the Redmi smartphone?",
+                "answers": [
+                    {
+                        "text": "Redmi A1",
+                        "answer_start": 0
+                    }
+                ]
+            },
+            {
+                "id": "00002",
+                "is_impossible": false,
+                "question": "What is the color option available for the Redmi A1?",
+                "answers": [
+                    {
+                        "text": "Light Green",
+                        "answer_start": 10
+                    }
+                ]
+            },
+            {
+                "id": "00003",
+                "is_impossible": false,
+                "question": "How much RAM does the Redmi A1 have?",
+                "answers": [
+                    {
+                        "text": "2GB",
+                        "answer_start": 23
+                    }
+                ]
+            },
+            {
+                "id": "00004",
+                "is_impossible": false,
+                "question": "What is the storage capacity of the Redmi A1?",
+                "answers": [
+                    {
+                        "text": "32GB",
+                        "answer_start": 31
+                    }
+                ]
+            },
+            {
+                "id": "00005",
+                "is_impossible": false,
+                "question": "What is the special feature of the camera on the Redmi A1?",
+                "answers": [
+                    {
+                        "text": "Segment Best AI Dual Cam",
+                        "answer_start": 43
+                    }
+                ]
+            },
+            {
+                "id": "00006",
+                "is_impossible": false,
+                "question": "What is the battery capacity of the Redmi A1?",
+                "answers": [
+                    {
+                        "text": "5000mAh Battery",
+                        "answer_start": 70
+                    }
+                ]
+            },
+            {
+                "id": "00007",
+                "is_impossible": false,
+                "question": "What is the design feature of the Redmi A1?",
+                "answers": [
+                    {
+                        "text": "Leather Texture Design",
+                        "answer_start": 88
+                    }
+                ]
+            },
+            {
+                "id": "00008",
+                "is_impossible": false,
+                "question": "What is the operating system of the Redmi A1?",
+                "answers": [
+                    {
+                        "text": "Android 12",
+                        "answer_start": 113
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "Samsung Galaxy M04 Light Green, 4GB RAM, 64GB Storage | Upto 8GB RAM with RAM Plus | MediaTek Helio P35 Octa-core Processor | 5000 mAh Battery | 13MP Dual Camera",
+        "qas": [
+            {
+                "id": "00001",
+                "is_impossible": false,
+                "question": "What is the model name of the Samsung smartphone?",
+                "answers": [
+                    {
+                        "text": "Samsung Galaxy M04",
+                        "answer_start": 0
+                    }
+                ]
+            },
+            {
+                "id": "00002",
+                "is_impossible": false,
+                "question": "What is the color option available for the Samsung Galaxy M04?",
+                "answers": [
+                    {
+                        "text": "Light Green",
+                        "answer_start": 19
+                    }
+                ]
+            },
+            {
+                "id": "00003",
+                "is_impossible": false,
+                "question": "How much RAM does the Samsung Galaxy M04 have?",
+                "answers": [
+                    {
+                        "text": "4GB",
+                        "answer_start": 32
+                    }
+                ]
+            },
+            {
+                "id": "00004",
+                "is_impossible": false,
+                "question": "What is the storage capacity of the Samsung Galaxy M04?",
+                "answers": [
+                    {
+                        "text": "64GB",
+                        "answer_start": 41
+                    }
+                ]
+            },
+            {
+                "id": "00005",
+                "is_impossible": false,
+                "question": "How much RAM can the Samsung Galaxy M04 have with RAM Plus?",
+                "answers": [
+                    {
+                        "text": "Upto 8GB RAM with RAM Plus",
+                        "answer_start": 56
+                    }
+                ]
+            },
+            {
+                "id": "00006",
+                "is_impossible": false,
+                "question": "What is the processor of the Samsung Galaxy M04?",
+                "answers": [
+                    {
+                        "text": "MediaTek Helio P35 Octa-core Processor",
+                        "answer_start": 85
+                    }
+                ]
+            },
+            {
+                "id": "00007",
+                "is_impossible": false,
+                "question": "What is the battery capacity of the Samsung Galaxy M04?",
+                "answers": [
+                    {
+                        "text": "5000 mAh",
+                        "answer_start": 126
+                    }
+                ]
+            },
+            {
+                "id": "00008",
+                "is_impossible": false,
+                "question": "What is the resolution of the dual camera on the Samsung Galaxy M04?",
+                "answers": [
+                    {
+                        "text": "13MP",
+                        "answer_start": 145
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "Samsung Galaxy M13 (Midnight Blue, 4GB, 64GB Storage) | 6000mAh Battery | Upto 8GB RAM with RAM Plus",
+        "qas": [
+            {
+                "id": "00001",
+                "is_impossible": false,
+                "question": "What is the model name of the Samsung smartphone?",
+                "answers": [
+                    {
+                        "text": "Samsung Galaxy M13",
+                        "answer_start": 0
+                    }
+                ]
+            },
+            {
+                "id": "00002",
+                "is_impossible": false,
+                "question": "What is the color option available for the Samsung Galaxy M13?",
+                "answers": [
+                    {
+                        "text": "Midnight Blue",
+                        "answer_start": 20
+                    }
+                ]
+            },
+            {
+                "id": "00003",
+                "is_impossible": false,
+                "question": "How much RAM does the Samsung Galaxy M13 have?",
+                "answers": [
+                    {
+                        "text": "4GB",
+                        "answer_start": 35
+                    }
+                ]
+            },
+            {
+                "id": "00004",
+                "is_impossible": false,
+                "question": "What is the storage capacity of the Samsung Galaxy M13?",
+                "answers": [
+                    {
+                        "text": "64GB",
+                        "answer_start": 40
+                    }
+                ]
+            },
+            {
+                "id": "00005",
+                "is_impossible": false,
+                "question": "What is the battery capacity of the Samsung Galaxy M13?",
+                "answers": [
+                    {
+                        "text": "6000mAh",
+                        "answer_start": 56
+                    }
+                ]
+            },
+            {
+                "id": "00006",
+                "is_impossible": false,
+                "question": "How much RAM can the Samsung Galaxy M13 have with RAM Plus?",
+                "answers": [
+                    {
+                        "text": "Upto 8GB RAM with RAM Plus",
+                        "answer_start": 74
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "Tecno Camon 20 (Serenity Blue, 8GB RAM,256GB Storage)|16GB Expandable RAM | 64MP RGBW Rear Camera|6.67 FHD+ Big AMOLED with in-Display Fingerprint Sensor",
+        "qas": [
+            {
+                "id": "00001",
+                "is_impossible": false,
+                "question": "What is the model name of the Tecno smartphone?",
+                "answers": [
+                    {
+                        "text": "Tecno Camon 20",
+                        "answer_start": 0
+                    }
+                ]
+            },
+            {
+                "id": "00002",
+                "is_impossible": false,
+                "question": "What is the color option available for the Tecno Camon 20?",
+                "answers": [
+                    {
+                        "text": "Serenity Blue",
+                        "answer_start": 16
+                    }
+                ]
+            },
+            {
+                "id": "00003",
+                "is_impossible": false,
+                "question": "How much RAM does the Tecno Camon 20 have?",
+                "answers": [
+                    {
+                        "text": "8GB",
+                        "answer_start": 31
+                    }
+                ]
+            },
+            {
+                "id": "00004",
+                "is_impossible": false,
+                "question": "What is the storage capacity of the Tecno Camon 20?",
+                "answers": [
+                    {
+                        "text": "256GB",
+                        "answer_start": 39
+                    }
+                ]
+            },
+            {
+                "id": "00005",
+                "is_impossible": false,
+                "question": "How much expandable RAM can the Tecno Camon 20 have?",
+                "answers": [
+                    {
+                        "text": "16GB",
+                        "answer_start": 54
+                    }
+                ]
+            },
+            {
+                "id": "00006",
+                "is_impossible": false,
+                "question": "What is the resolution of the rear camera on the Tecno Camon 20?",
+                "answers": [
+                    {
+                        "text": "64MP RGBW",
+                        "answer_start": 76
+                    }
+                ]
+            },
+            {
+                "id": "00007",
+                "is_impossible": false,
+                "question": "What is the size of the display on the Tecno Camon 20?",
+                "answers": [
+                    {
+                        "text": "6.67 FHD+",
+                        "answer_start": 98
+                    }
+                ]
+            },
+            {
+                "id": "00008",
+                "is_impossible": false,
+                "question": "What type of display does the Tecno Camon 20 have?",
+                "answers": [
+                    {
+                        "text": "Big AMOLED",
+                        "answer_start": 108
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "Tecno POP 7 Pro (Uyuni Blue, 3GB RAM,64GB Storage) | Type C Port | 12MP Dual Camera | Up to 6GB RAM with Memory Fusion",
+        "qas": [
+            {
+                "id": "00001",
+                "is_impossible": false,
+                "question": "What is the model name of the Tecno tablet?",
+                "answers": [
+                    {
+                        "text": "Tecno POP 7 Pro",
+                        "answer_start": 0
+                    }
+                ]
+            },
+            {
+                "id": "00002",
+                "is_impossible": false,
+                "question": "What is the color option available for the Tecno POP 7 Pro?",
+                "answers": [
+                    {
+                        "text": "Uyuni Blue",
+                        "answer_start": 17
+                    }
+                ]
+            },
+            {
+                "id": "00003",
+                "is_impossible": false,
+                "question": "How much RAM does the Tecno POP 7 Pro have?",
+                "answers": [
+                    {
+                        "text": "3GB",
+                        "answer_start": 29
+                    }
+                ]
+            },
+            {
+                "id": "00004",
+                "is_impossible": false,
+                "question": "What is the storage capacity of the Tecno POP 7 Pro?",
+                "answers": [
+                    {
+                        "text": "64GB",
+                        "answer_start": 37
+                    }
+                ]
+            },
+            {
+                "id": "00005",
+                "is_impossible": false,
+                "question": "What type of port does the Tecno POP 7 Pro have?",
+                "answers": [
+                    {
+                        "text": "Type C Port",
+                        "answer_start": 53
+                    }
+                ]
+            },
+            {
+                "id": "00006",
+                "is_impossible": false,
+                "question": "What is the resolution of the dual camera on the Tecno POP 7 Pro?",
+                "answers": [
+                    {
+                        "text": "12MP",
+                        "answer_start": 67
+                    }
+                ]
+            },
+            {
+                "id": "00007",
+                "is_impossible": false,
+                "question": "How much RAM can the Tecno POP 7 Pro have with Memory Fusion?",
+                "answers": [
+                    {
+                        "text": "Up to 6GB RAM with Memory Fusion",
+                        "answer_start": 86
+                    }
+                ]
+            }
+        ]
+    }
+]

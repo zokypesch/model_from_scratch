@@ -1,0 +1,363 @@
+[
+    {
+        "context": "Redmi Note 11 (Space Black, 4GB RAM, 64GB Storage)|90Hz FHD+ AMOLED Display | Qualcomm® Snapdragon™ 680-6nm | 33W Charger Included",
+        "qas": [
+            {
+                "id": "00001",
+                "is_impossible": false,
+                "question": "What is the model name of the Redmi smartphone?",
+                "answers": [
+                    {
+                        "text": "Redmi Note 11",
+                        "answer_start": 0
+                    }
+                ]
+            },
+            {
+                "id": "00002",
+                "is_impossible": false,
+                "question": "What is the color option available for the Redmi Note 11?",
+                "answers": [
+                    {
+                        "text": "Space Black",
+                        "answer_start": 15
+                    }
+                ]
+            },
+            {
+                "id": "00003",
+                "is_impossible": false,
+                "question": "How much RAM does the Redmi Note 11 have?",
+                "answers": [
+                    {
+                        "text": "4GB",
+                        "answer_start": 28
+                    }
+                ]
+            },
+            {
+                "id": "00004",
+                "is_impossible": false,
+                "question": "What is the storage capacity of the Redmi Note 11?",
+                "answers": [
+                    {
+                        "text": "64GB",
+                        "answer_start": 37
+                    }
+                ]
+            },
+            {
+                "id": "00005",
+                "is_impossible": false,
+                "question": "What is the display feature of the Redmi Note 11?",
+                "answers": [
+                    {
+                        "text": "90Hz FHD+ AMOLED Display",
+                        "answer_start": 51
+                    }
+                ]
+            },
+            {
+                "id": "00006",
+                "is_impossible": false,
+                "question": "What is included in the package of the Redmi Note 11?",
+                "answers": [
+                    {
+                        "text": "33W Charger Included",
+                        "answer_start": 110
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "Redmi Note 10S (Deep Sea Blue, 6GB RAM, 64GB Storage) - Super Amoled Display | 64 MP Quad Camera | 6 Month Free Screen Replacement (Prime only) |33W Charger Included",
+        "qas": [
+            {
+                "id": "00001",
+                "is_impossible": false,
+                "question": "What is the model name of the Redmi smartphone?",
+                "answers": [
+                    {
+                        "text": "Redmi Note 10S",
+                        "answer_start": 0
+                    }
+                ]
+            },
+            {
+                "id": "00002",
+                "is_impossible": false,
+                "question": "What is the color option available for the Redmi Note 10S?",
+                "answers": [
+                    {
+                        "text": "Deep Sea Blue",
+                        "answer_start": 16
+                    }
+                ]
+            },
+            {
+                "id": "00003",
+                "is_impossible": false,
+                "question": "How much RAM does the Redmi Note 10S have?",
+                "answers": [
+                    {
+                        "text": "6GB",
+                        "answer_start": 31
+                    }
+                ]
+            },
+            {
+                "id": "00004",
+                "is_impossible": false,
+                "question": "What is the storage capacity of the Redmi Note 10S?",
+                "answers": [
+                    {
+                        "text": "64GB",
+                        "answer_start": 40
+                    }
+                ]
+            },
+            {
+                "id": "00005",
+                "is_impossible": false,
+                "question": "What type of display does the Redmi Note 10S have?",
+                "answers": [
+                    {
+                        "text": "Super Amoled Display",
+                        "answer_start": 56
+                    }
+                ]
+            },
+            {
+                "id": "00006",
+                "is_impossible": false,
+                "question": "What is the resolution of the camera on the Redmi Note 10S?",
+                "answers": [
+                    {
+                        "text": "64 MP Quad Camera",
+                        "answer_start": 79
+                    }
+                ]
+            },
+            {
+                "id": "00007",
+                "is_impossible": false,
+                "question": "What is the special offer for screen replacement on the Redmi Note 10S?",
+                "answers": [
+                    {
+                        "text": "6 Month Free Screen Replacement (Prime only)",
+                        "answer_start": 99
+                    }
+                ]
+            },
+            {
+                "id": "00008",
+                "is_impossible": false,
+                "question": "What is included in the package of the Redmi Note 10S?",
+                "answers": [
+                    {
+                        "text": "33W Charger Included",
+                        "answer_start": 145
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "Lava Blaze 5G (Glass Green, 6GB RAM, UFS 2.2 128GB Storage) | 5G Ready | 50MP AI Triple Camera | Upto 11GB Expandable RAM | Charger Included | Clean Android (No Bloatware)",
+        "qas": [
+            {
+                "id": "00001",
+                "is_impossible": false,
+                "question": "What is the model name of the Lava smartphone?",
+                "answers": [
+                    {
+                        "text": "Lava Blaze 5G",
+                        "answer_start": 0
+                    }
+                ]
+            },
+            {
+                "id": "00002",
+                "is_impossible": false,
+                "question": "What is the color option available for the Lava Blaze 5G?",
+                "answers": [
+                    {
+                        "text": "Glass Green",
+                        "answer_start": 15
+                    }
+                ]
+            },
+            {
+                "id": "00003",
+                "is_impossible": false,
+                "question": "How much RAM does the Lava Blaze 5G have?",
+                "answers": [
+                    {
+                        "text": "6GB",
+                        "answer_start": 28
+                    }
+                ]
+            },
+            {
+                "id": "00004",
+                "is_impossible": false,
+                "question": "What is the storage capacity of the Lava Blaze 5G?",
+                "answers": [
+                    {
+                        "text": "UFS 2.2 128GB",
+                        "answer_start": 37
+                    }
+                ]
+            },
+            {
+                "id": "00005",
+                "is_impossible": false,
+                "question": "Is the Lava Blaze 5G compatible with 5G networks?",
+                "answers": [
+                    {
+                        "text": "5G Ready",
+                        "answer_start": 62
+                    }
+                ]
+            },
+            {
+                "id": "00006",
+                "is_impossible": false,
+                "question": "What is the resolution of the camera on the Lava Blaze 5G?",
+                "answers": [
+                    {
+                        "text": "50MP AI Triple Camera",
+                        "answer_start": 73
+                    }
+                ]
+            },
+            {
+                "id": "00007",
+                "is_impossible": false,
+                "question": "How much expandable RAM does the Lava Blaze 5G support?",
+                "answers": [
+                    {
+                        "text": "Upto 11GB Expandable RAM",
+                        "answer_start": 97
+                    }
+                ]
+            },
+            {
+                "id": "00008",
+                "is_impossible": false,
+                "question": "What is included in the package of the Lava Blaze 5G?",
+                "answers": [
+                    {
+                        "text": "Charger Included",
+                        "answer_start": 124
+                    }
+                ]
+            },
+            {
+                "id": "00009",
+                "is_impossible": false,
+                "question": "What operating system does the Lava Blaze 5G use?",
+                "answers": [
+                    {
+                        "text": "Clean Android (No Bloatware)",
+                        "answer_start": 143
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "context": "Oppo A78 5G (Glowing Black, 8GB RAM, 128 Storage) | 5000 mAh Battery with 33W SUPERVOOC Charger| 50MP AI Camera | 90Hz Refresh Rate | with No Cost EMI/Additional Exchange Offers",
+        "qas": [
+            {
+                "id": "00001",
+                "is_impossible": false,
+                "question": "What is the model name of the Oppo smartphone?",
+                "answers": [
+                    {
+                        "text": "Oppo A78 5G",
+                        "answer_start": 0
+                    }
+                ]
+            },
+            {
+                "id": "00002",
+                "is_impossible": false,
+                "question": "What is the color option available for the Oppo A78 5G?",
+                "answers": [
+                    {
+                        "text": "Glowing Black",
+                        "answer_start": 13
+                    }
+                ]
+            },
+            {
+                "id": "00003",
+                "is_impossible": false,
+                "question": "How much RAM does the Oppo A78 5G have?",
+                "answers": [
+                    {
+                        "text": "8GB",
+                        "answer_start": 28
+                    }
+                ]
+            },
+            {
+                "id": "00004",
+                "is_impossible": false,
+                "question": "What is the battery capacity of the Oppo A78 5G?",
+                "answers": [
+                    {
+                        "text": "5000 mAh",
+                        "answer_start": 52
+                    }
+                ]
+            },
+            {
+                "id": "00005",
+                "is_impossible": false,
+                "question": "What is the charging speed of the Oppo A78 5G?",
+                "answers": [
+                    {
+                        "text": "33W SUPERVOOC Charger",
+                        "answer_start": 74
+                    }
+                ]
+            },
+            {
+                "id": "00006",
+                "is_impossible": false,
+                "question": "What is the resolution of the camera on the Oppo A78 5G?",
+                "answers": [
+                    {
+                        "text": "50MP AI Camera",
+                        "answer_start": 97
+                    }
+                ]
+            },
+            {
+                "id": "00007",
+                "is_impossible": false,
+                "question": "What is the refresh rate of the display on the Oppo A78 5G?",
+                "answers": [
+                    {
+                        "text": "90Hz Refresh Rate",
+                        "answer_start": 114
+                    }
+                ]
+            },
+            {
+                "id": "00008",
+                "is_impossible": false,
+                "question": "Are there any additional offers available for the Oppo A78 5G?",
+                "answers": [
+                    {
+                        "text": "with No Cost EMI/Additional Exchange Offers",
+                        "answer_start": 134
+                    }
+                ]
+            }
+        ]
+    }
+]
