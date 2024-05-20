@@ -1,0 +1,79 @@
+from deepface import DeepFace
+import cv2
+
+def crop_face(img, filename):
+    # convert to grayscale of each frames
+    gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
+    # read the haarcascade to detect the faces in an image
+    face_cascade = cv2.CascadeClassifier('./haarcascade_frontalface_default.xml')
+    height, width, _ = img.shape
+    # detects faces in the input image
+    faces = face_cascade.detectMultiScale(gray, 1.3, 4)
+    print('Number of detected faces:', len(faces))
+    x, y, w, h = tuple(map(tuple, faces))[0]
+    # Calculate padding as segmentation is too tight.
+    pad_w = int(w / 2.5)
+    pad_h = int(h / 2.5)
+    # Get co-ordinates of crop
+    x1 = max(0, x - pad_w)
+    y1 = max(0, y - pad_h)
+    x2 = min(width, x + w + pad_w)
+    y2 = min(height, y + h + pad_h)
+    # Crop image
+    cropped = img[y1:y2, x1:x2]
+    cv2.imwrite(f'./crop-{filename}', cropped)
+    return (cropped, f'./crop-{filename}')
+
+models = [
+  "VGG-Face", 
+  "Facenet", 
+  "Facenet512", 
+  "OpenFace", 
+  "DeepFace", 
+  "DeepID", 
+  "ArcFace", 
+  "Dlib", 
+  "SFace",
+  "GhostFaceNet",
+]
+
+backends = [
+  'opencv', 
+  'ssd', 
+  'dlib', 
+  'mtcnn', 
+  'fastmtcnn',
+  'retinaface', 
+  'mediapipe',
+  'yolov8',
+  'yunet',
+  'centerface',
+]
+
+img1 = "willy.jpeg"
+img2 = "willy2.jpeg"
+
+img_cv = cv2.imread(img1)
+img2_cv = cv2.imread(img2)
+
+img_crop, filename_crop = crop_face(img_cv, img1)
+img_crop2, filename_crop2 = crop_face(img2_cv, img2)
+
+print(filename_crop, filename_crop2)
+
+#face verification
+result = DeepFace.verify(
+#   img1_path = "arip.jpeg",
+#   img2_path = "willy2.jpeg",
+#   img1_path = "../local-facenet-compare-tf/ibu1.jpeg",
+#   img2_path = "../local-facenet-compare-tf/ibu2.jpeg",
+  img1_path = "../local-facenet-compare-tf/crop-ibu1.jpeg-0.jpg",
+  img2_path = "../local-facenet-compare-tf/crop-ibu2.jpeg-0.jpg",
+  model_name = models[2], # using facenet512
+  threshold = 0.3,
+  detector_backend=backends[1]
+)
+
+print(result)
+score = (1-(result['distance'])) *100
+print(score)
